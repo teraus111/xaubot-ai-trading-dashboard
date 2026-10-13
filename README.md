@@ -217,3 +217,6 @@ python backtests/backtest_live_sync.py --tune
 ## Lisensi
 
 [MIT License](LICENSE) - Hak Cipta (c) 2025-2026 Gifari Kemal
+
+## Contact
+Telegram: @teraus111
